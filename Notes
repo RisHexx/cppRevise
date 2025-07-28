@@ -1,4 +1,13 @@
 library and namespace
 stl library
 referance &
-pointer
+pointer and function pointer
+function returing pointer
+new keyword for memory allcoation 
+static keeps variable alive even after fucntion is finished
+arrays
+Strings
+vectors
+auto 
+fill()
+Oops

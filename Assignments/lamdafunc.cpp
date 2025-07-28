@@ -2,10 +2,9 @@
 using namespace std;
 
 int main() {
-    auto lambda = [](){
-        cout<<"Hello world";
+    auto add = [](int x , int y){
+        return x + y;
     };
-    lambda();
-    
+    cout<<add(5,6);
     return 0;
 }
